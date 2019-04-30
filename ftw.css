@@ -17,7 +17,7 @@
     text-align: center;
    height:auto;
   }
-  .navbar{
+  nav.navbar{
     display: block;
     color:gray;
     text-align: center;
@@ -27,6 +27,6 @@
     background: #070000;      
     background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000);      
     background: linear-gradient(to right, #070000, #4C0001, #070000);
-    position:left;
+
   }
   
