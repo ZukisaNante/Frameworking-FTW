@@ -24,5 +24,8 @@
     padding: 10px 10px;
     text-decoration: brown;
     font-size: 25px;
+    background: #070000;      
+    background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000);      
+    background: linear-gradient(to right, #070000, #4C0001, #070000);
   }
   
