@@ -17,3 +17,12 @@
     text-align: center;
    height:auto;
   }
+  .navbar{
+    display: block;
+    color:gray;
+    text-align: center;
+    padding: 10px 10px;
+    text-decoration: brown;
+    font-size: 25px;
+  }
+  
