@@ -7,6 +7,8 @@
     grid-template-rows: auto auto auto;
     background-color:lightskyblue;
     padding: 10px;
+    margin-left: 200px;
+    padding-left: 20px;
   }
   
   .grid-item {
@@ -27,6 +29,14 @@
     background: #070000;      
     background: -webkit-linear-gradient(to right, #070000, #4C0001, #070000);      
     background: linear-gradient(to right, #070000, #4C0001, #070000);
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    
 
   }
   /* Darker background on mouse-over */
