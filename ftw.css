@@ -36,7 +36,8 @@
 .btn{
   background-color: darkslategray;
   padding: 20px 25px;
-  font-size: 20px;
+  font-size: 30px;
   cursor: pointer;
+  color: white;
 }
   
