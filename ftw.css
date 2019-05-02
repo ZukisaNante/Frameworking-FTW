@@ -33,4 +33,10 @@
 .btn:hover {
   background-color: RoyalBlue;
 }
+.btn{
+  background-color: darkslategray;
+  padding: 12px 18px;
+  font-size: 16px;
+  cursor: pointer;
+}
   
